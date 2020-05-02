@@ -25,4 +25,35 @@ array_sum is a function to take arrays as parameters and prints out a new array 
 
     return 0;
     }
+
+
+    
+    int size,i;
+    printf("Input the size of arrays:");
+    scanf_s("%d",&size);
+    
+
+    int * array_1;
+    array_1 = (int *) malloc(sizeof(int) * size); 
+
+    int * array_2;
+    array_2 = (int *) malloc(sizeof(int) * size);
+
+    for(i=0;i<size;i++){
+
+        printf("Insert value %d for array_1:",i+1);
+        scanf_s("%d",&array_1[i]);
+
+    }
+    printf("\n");
+    for(i=0;i<size;i++){
+        printf("Insert value %d for array_2:",i+1);
+        scanf_s("%d",&array_2[i]);
+    }
+
+    array_sum(array_1,array_2,size);
+
+    return 0;
+
+
     
