@@ -26,7 +26,7 @@ array_sum is a function to take arrays as parameters and prints out a new array 
     return 0;
     }
 
-We have used the **malloc** function to dynamically allocate memory for the array as the user input. **malloc** is one of the memory management function C language. There are many more to go.
+We have used the **malloc** function to dynamically allocate memory for the array as the user input. **malloc** is one of the memory management function C language. There are many more to go. You can take a look at them here. --> [Dynamic Memory Allocation In C- GeeksForGeeks.com](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/)
     
     int size,i;
     printf("Input the size of arrays:");
