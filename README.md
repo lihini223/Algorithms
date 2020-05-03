@@ -64,8 +64,11 @@ printf() is a system defined function under <stdio.h> header. It is used to prin
     return 0;
     }
 
+# What is the difference between gets() and scanf() functions
 
-    
+Both scanf() and gets() functions are used to take user inputs. scanf() is capable of getting inputs untill it encounters a space. But gets() can take a complete sentence with spaces.
+
+
 # Functions in C Language
 #### Let's take a look at how to pass an array as a parameter into a function 
 array_sum is a function to take arrays as parameters and prints out a new array containing the sum of parralel parameters.
