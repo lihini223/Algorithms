@@ -1,9 +1,16 @@
 # Hey Coders ! Looking for Some practices ?
 ## Here you go ! :smiley: 
-This Repository is created to upload tricky coding practices 
+This Repository is created to upload C Programming practices. I'll be delivering content through six subtopics.
+1. Basic Programs
+2. Loops
+3. Number Crunching
+4. Arrays
+5. Pointers
+6. Recursion
 
-### Let's take a look at how to pass an array as a parameter into a function in C language
+### Let's start with basic Programs
 
+# Functions in C Language
 array_sum is a function to take arrays as parameters and prints out a new array containing the sum of parralel parameters.
 
     int array_sum(int*arr_1,int*arr_2,int size) {
