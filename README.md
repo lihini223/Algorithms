@@ -12,15 +12,12 @@ This Repository is created to upload C Programming practices. I'll be delivering
 
 ### Printing HELLO WORLD! 
     #include <stdio.h>
-
     int main()
     {
-        printf("\n\n\t\tStudytonight - Best place to learn\n\n\n");
-        int num;
-        printf("\nHello world!\nWelcome to Studytonight: Best place to learn\n");
-        printf("\n\n\t\t\tCoding is Fun !\n\n\n");
+        printf("Hello world!");
         return 0;
     }
+printf() is a system defined function under <stdio.h> header. It is used to printout data on the screen.
 
 # Functions in C Language
 array_sum is a function to take arrays as parameters and prints out a new array containing the sum of parralel parameters.
