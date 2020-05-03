@@ -38,6 +38,11 @@ printf() is a system defined function under <stdio.h> header. It is used to prin
         // Taking integer as input from user
         printf("Enter an integer:\n");
         scanf("%d", &num);
+        
+        // Taking float or fraction as input from the user
+        printf("\nEnter a Decimal number\n");
+        scanf("%f", &fraction); 
+
     
 # Functions in C Language
 #### Let's take a look at how to pass an array as a parameter into a function 
