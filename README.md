@@ -24,7 +24,7 @@ printf() is a system defined function under <stdio.h> header. It is used to prin
 - scanf() is a inbuilt function under <stdio.h> and is used to take inputs from user
 - %d is used to take and represent numbers in integer formart. 
 - %f is used to take and represent numbers with the fraction part.
-
+- %c is used to take and represent only one character.
     
 # Functions in C Language
 #### Let's take a look at how to pass an array as a parameter into a function 
