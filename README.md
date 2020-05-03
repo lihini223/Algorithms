@@ -25,6 +25,7 @@ printf() is a system defined function under <stdio.h> header. It is used to prin
 - %d is used to take and represent numbers in integer formart. 
 - %f is used to take and represent numbers with the fraction part.
 - %c is used to take and represent only one character.
+- & is used to assign the input value to the variable and store it at that particular location.
             
         #include<stdio.h>
 
