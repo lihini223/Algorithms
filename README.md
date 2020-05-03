@@ -19,7 +19,13 @@ This Repository is created to upload C Programming practices. I'll be delivering
     }
 printf() is a system defined function under <stdio.h> header. It is used to printout data on the screen.
 
+### Getting inputs from user
+
+- scanf() is a inbuilt function under <stdio.h> and is used to take inputs from user
+
+    
 # Functions in C Language
+#### Let's take a look at how to pass an array as a parameter into a function 
 array_sum is a function to take arrays as parameters and prints out a new array containing the sum of parralel parameters.
 
     int array_sum(int*arr_1,int*arr_2,int size) {
