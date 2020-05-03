@@ -8,7 +8,19 @@ This Repository is created to upload C Programming practices. I'll be delivering
 5. Pointers
 6. Recursion
 
-### Let's start with basic Programs
+# Let's start with basic Programs
+
+### Printing HELLO WORLD! 
+    #include <stdio.h>
+
+    int main()
+    {
+        printf("\n\n\t\tStudytonight - Best place to learn\n\n\n");
+        int num;
+        printf("\nHello world!\nWelcome to Studytonight: Best place to learn\n");
+        printf("\n\n\t\t\tCoding is Fun !\n\n\n");
+        return 0;
+    }
 
 # Functions in C Language
 array_sum is a function to take arrays as parameters and prints out a new array containing the sum of parralel parameters.
