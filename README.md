@@ -68,6 +68,17 @@ printf() is a system defined function under <stdio.h> header. It is used to prin
 
 Both scanf() and gets() functions are used to take user inputs. scanf() is capable of getting inputs untill it encounters a space. But gets() can take a complete sentence with spaces.
 
+    #include<stdio.h>
+
+    int main()
+    {
+    char str[50];   // char array of size 50
+    printf("Enter your complete name:\n\n\n");
+
+    gets(str); // gets a complete sentence with spaces ex:- Lihini Nisansala
+    printf("\n\nWelcome to my GitHub Account %s\n\n\n", str);
+    return 0;
+    }
 
 # Functions in C Language
 #### Let's take a look at how to pass an array as a parameter into a function 
