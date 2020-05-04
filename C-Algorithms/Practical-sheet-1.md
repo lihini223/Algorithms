@@ -21,3 +21,12 @@ Areas covered : Memory concepts, Data Input & output ,primitive data types
         *** <br/>
         **** <br/>
         ***** <br/>
+                
+        #include<stdio.h>
+        
+        int main()
+        {
+                printf("*\n**\n***\n****\n*****\n");
+                return 0;
+        }
+        
