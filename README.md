@@ -1,68 +1,6 @@
 # Hey Coders ! Looking for Some practices ?
 ## Here you go ! :smiley: 
-This Repository is created to upload C Programming practices. I'll be delivering content through six subtopics.
-1. Basic Programs
-2. Loops
-3. Number Crunching
-4. Arrays
-5. Pointers
-6. Recursion
 
-# Let's start with basic Programs
-
-### Printing HELLO WORLD! 
-    #include <stdio.h>
-    int main()
-    {
-        printf("Hello world!");
-        return 0;
-    }
-printf() is a system defined function under <stdio.h> header. It is used to printout data on the screen.
-
-### Getting inputs from user
-
-- scanf() is a inbuilt function under <stdio.h> and is used to take inputs from user
-- %d is used to take and represent numbers in integer formart. 
-- %f is used to take and represent numbers with the fraction part.
-- %c is used to take and represent only one character.
-- & is used to assign the input value to the variable and store it at that particular location.
-            
-        #include<stdio.h>
-
-        int main()
-        {
-
-        int num;  
-        float fraction;     
-        char character;
-    
-        // Taking integer as input from user
-        printf("Enter an integer:\n");
-        scanf("%d", &num);
-        
-        // Taking float or fraction as input from the user
-        printf("\nEnter a Decimal number\n");
-        scanf("%f", &fraction); 
-        
-        
-        // Taking Character as input from the user
-        printf("\nEnter a Character\n");
-        scanf("%c",&character);
-        
-        return 0;
-        }
-## Taking the ASCII values of characters
-
-    #include<stdio.h>
-
-    int main()
-    {
-    char c;
-    printf("Enter a character : ");
-    scanf("%c" , &c);
-    printf("\n ASCII value of %c = %d",c,c);
-    return 0;
-    }
 
 # What is the difference between gets() and scanf() functions
 
