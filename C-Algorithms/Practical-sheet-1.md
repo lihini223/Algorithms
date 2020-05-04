@@ -29,4 +29,4 @@ Areas covered : Memory concepts, Data Input & output ,primitive data types
                 printf("*\n**\n***\n****\n*****\n");
                 return 0;
         }
-        
+         
