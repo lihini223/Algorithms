@@ -152,4 +152,5 @@ Areas covered : Memory concepts, Data Input & output ,primitive data types
       Output: <br/>
       First number: 12345
       
+        printf("Second number: %04d\n", 25);
         
