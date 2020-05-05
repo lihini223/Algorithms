@@ -37,3 +37,5 @@ Areas covered : Memory concepts, Data Input & output ,primitive data types
 5.	Input two numbers with decimals and display the average with decimals.
 
 6.	Input a student name, birth year and display student name with age.
+
+7.	Input two numbers, swap the values and display the output. ( Before swap and after swap)
