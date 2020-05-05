@@ -126,6 +126,10 @@ Areas covered : Memory concepts, Data Input & output ,primitive data types
         int main()
         {
             int n1,n2,temp;
+            
+            printf("Input The first number to swap:");
+            scanf("%d",&n1);
+
         }
         
 8.	Execute the following code and analyze the output.
