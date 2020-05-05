@@ -77,6 +77,8 @@ Areas covered : Memory concepts, Data Input & output ,primitive data types
         
         #include<stdio.h>
         
+        int main(){
+        
         float num1,num2,average;
         
         printf("Enter First Number with decimal points:");
@@ -86,6 +88,8 @@ Areas covered : Memory concepts, Data Input & output ,primitive data types
         
         average=(num1+num2)/2;
         printf("Average is %f",average);
+        
+        }
 
 6.	Input a student name, birth year and display student name with age.
 
