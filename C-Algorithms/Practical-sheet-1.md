@@ -99,6 +99,10 @@ Areas covered : Memory concepts, Data Input & output ,primitive data types
 
 6.	Input a student name, birth year and display student name with age.
 
+        char name[30];
+        int birthyear,age;
+
+
 7.	Input two numbers, swap the values and display the output. ( Before swap and after swap)
 
 8.	Execute the following code and analyze the output.
