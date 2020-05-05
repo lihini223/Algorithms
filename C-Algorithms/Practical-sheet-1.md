@@ -123,8 +123,9 @@ Areas covered : Memory concepts, Data Input & output ,primitive data types
         
         #include<stdio.h>
         
-        int main(){
-        
+        int main()
+        {
+            int n1,n2,temp;
         }
         
 8.	Execute the following code and analyze the output.
