@@ -43,6 +43,11 @@ Areas covered : Memory concepts, Data Input & output ,primitive data types
         float y;
         printf("Enter a Float value here:");
         scanf("%f",&y);
+        
+        double z;
+        printf("Enter a Double value here:");
+        scanf("%f",&z);
+
 
         }
 
