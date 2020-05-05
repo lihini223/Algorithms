@@ -9,7 +9,7 @@ Areas covered : Memory concepts, Data Input & output ,primitive data types
         int main( )
         {
           printf("My name is Lihini Nisansala\nMy School is Devi Balika Vidyalaya-Colombo 08\n");
-           return 0;
+          return 0;
         }
      Output:<br/>
         My name is Lihini Nisansala<br/>
@@ -52,7 +52,9 @@ Areas covered : Memory concepts, Data Input & output ,primitive data types
         char m;
         printf("Enter a Character here:");
         scanf("%c",&m);
-
+        
+        return 0;
+        
         }
 
 4.	Input two integers and display the total.
