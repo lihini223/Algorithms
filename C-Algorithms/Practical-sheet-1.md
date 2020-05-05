@@ -177,5 +177,6 @@ Areas covered : Memory concepts, Data Input & output ,primitive data types
       Unsigned value: 150
 
         printf("Just print the percentage sign %%\n", 10);
-      Output:
+      Output:<br/>
       Just print the percentage sign %
+- % mark will be printed even if the number 10 is not there
