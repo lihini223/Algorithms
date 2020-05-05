@@ -171,3 +171,5 @@ Areas covered : Memory concepts, Data Input & output ,primitive data types
         printf("Octal: %o\n", 255);
       Output: <br/>
       Octal: 377
+
+        printf("Unsigned value: %u\n", 150);
