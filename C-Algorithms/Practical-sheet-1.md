@@ -138,6 +138,8 @@ Areas covered : Memory concepts, Data Input & output ,primitive data types
             temp=n1;
             n1=n2;
             n2=temp;
+            
+            printf("After Swapped First Number=%d\n Second Number=%d\n",n1,n2);
         }
         
 8.	Execute the following code and analyze the output.
