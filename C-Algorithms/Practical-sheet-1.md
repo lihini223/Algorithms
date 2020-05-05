@@ -74,6 +74,8 @@ Areas covered : Memory concepts, Data Input & output ,primitive data types
         }
         
 5.	Input two numbers with decimals and display the average with decimals.
+        
+        float num1,num2,average;
 
 6.	Input a student name, birth year and display student name with age.
 
