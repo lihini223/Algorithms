@@ -120,5 +120,7 @@ Areas covered : Memory concepts, Data Input & output ,primitive data types
         }
         
 7.	Input two numbers, swap the values and display the output. ( Before swap and after swap)
-
+        
+        #include<stdio.h>
+        
 8.	Execute the following code and analyze the output.
