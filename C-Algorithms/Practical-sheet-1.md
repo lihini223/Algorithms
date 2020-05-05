@@ -144,4 +144,6 @@ Areas covered : Memory concepts, Data Input & output ,primitive data types
         
 8.	Execute the following code and analyze the output.
         
-        printf("The color: %s\n", "blue");
+        printf("The color: %s\n", "blue");   
+     Output: 
+     The color: blue
