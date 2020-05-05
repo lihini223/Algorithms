@@ -101,6 +101,10 @@ Areas covered : Memory concepts, Data Input & output ,primitive data types
 
         char name[30];
         int birthyear,age;
+        
+        printf("Input Your Name:");
+        scanf("%s",&name);
+
 
 
 7.	Input two numbers, swap the values and display the output. ( Before swap and after swap)
