@@ -48,6 +48,9 @@ Areas covered : Memory concepts, Data Input & output ,primitive data types
         printf("Enter a Double value here:");
         scanf("%f",&z);
 
+        char m;
+        printf("Enter a Character here:");
+        scanf("%c",&m);
 
         }
 
