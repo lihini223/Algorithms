@@ -73,6 +73,8 @@ Areas covered : Memory concepts, Data Input & output ,primitive data types
         total=n1+n2;
         printf("Total is %d",total);
         
+        return 0;
+        
         }
         
 5.	Input two numbers with decimals and display the average with decimals.
