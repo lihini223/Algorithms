@@ -99,6 +99,8 @@ Areas covered : Memory concepts, Data Input & output ,primitive data types
 
 6.	Input a student name, birth year and display student name with age.
 
+        #include<stdio.h>
+        
         char name[30];
         int birthyear,age;
         
