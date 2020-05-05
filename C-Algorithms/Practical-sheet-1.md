@@ -36,6 +36,7 @@ Areas covered : Memory concepts, Data Input & output ,primitive data types
         
         int main()
         {
+        
         int x;
         printf("Enter a Integer here:");
         scanf("%d",&x);
