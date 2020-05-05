@@ -33,6 +33,7 @@ Areas covered : Memory concepts, Data Input & output ,primitive data types
 3.	Input values for int,float,double and char data types and display the value of each of the variable.
 
         #include<stdio.h>
+        
         int main()
         {
         int x;
