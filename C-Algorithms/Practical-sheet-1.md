@@ -81,7 +81,8 @@ Areas covered : Memory concepts, Data Input & output ,primitive data types
         scanf("%f",&num1);
         printf("Enter Second Number with decimal points:");
         scanf("%f",&num2);
-
+        
+        average=(num1+num2)/2;
 
 6.	Input a student name, birth year and display student name with age.
 
