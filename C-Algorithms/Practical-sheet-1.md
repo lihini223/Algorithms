@@ -57,6 +57,8 @@ Areas covered : Memory concepts, Data Input & output ,primitive data types
 
 4.	Input two integers and display the total.
         
+        #include<stdio.h>
+        
         int n1,n2,total;
         
         printf("Input First Number:");
