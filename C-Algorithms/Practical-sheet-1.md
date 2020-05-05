@@ -177,3 +177,5 @@ Areas covered : Memory concepts, Data Input & output ,primitive data types
       Unsigned value: 150
 
         printf("Just print the percentage sign %%\n", 10);
+      Output:
+      Just print the percentage sign %
