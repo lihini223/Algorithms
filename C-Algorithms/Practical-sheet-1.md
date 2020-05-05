@@ -111,6 +111,7 @@ Areas covered : Memory concepts, Data Input & output ,primitive data types
         getchar();
         
         age=2019-birthyear;
+        printf("%s Your age is %d",name,age);
         
 7.	Input two numbers, swap the values and display the output. ( Before swap and after swap)
 
