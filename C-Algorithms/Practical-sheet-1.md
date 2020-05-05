@@ -39,9 +39,16 @@ Areas covered : Memory concepts, Data Input & output ,primitive data types
         int x;
         printf("Enter a Integer here:");
         scanf("%d",&x);
+        
+        float y;
+        printf("Enter a Float value here:");
+        scanf("%f",&y);
+
         }
 
 4.	Input two integers and display the total.
+
+        
 
 5.	Input two numbers with decimals and display the average with decimals.
 
