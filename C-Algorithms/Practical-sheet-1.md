@@ -155,3 +155,5 @@ Areas covered : Memory concepts, Data Input & output ,primitive data types
         printf("Second number: %04d\n", 25);
       Output: <br/>
       Second number: 0025  
+      
+        printf("Third number: %i\n", 1234);
