@@ -58,8 +58,11 @@ Areas covered : Memory concepts, Data Input & output ,primitive data types
 4.	Input two integers and display the total.
         
         int n1,n2,total;
+        
         printf("Input First Number:");
         scanf("%d",&n1);
+        printf("Input Second Number:");
+        scanf("%d",&n2);
 
 
 5.	Input two numbers with decimals and display the average with decimals.
