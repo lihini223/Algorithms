@@ -35,3 +35,5 @@ Areas covered : Memory concepts, Data Input & output ,primitive data types
 4.	Input two integers and display the total.
 
 5.	Input two numbers with decimals and display the average with decimals.
+
+6.	Input a student name, birth year and display student name with age.
