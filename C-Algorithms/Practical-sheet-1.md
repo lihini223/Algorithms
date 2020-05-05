@@ -161,3 +161,5 @@ Areas covered : Memory concepts, Data Input & output ,primitive data types
       Third number: 1234
       
         printf("Float number: %3.2f\n", 3.14159);
+      Output:
+      Float number: 3.14
