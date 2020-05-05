@@ -147,3 +147,9 @@ Areas covered : Memory concepts, Data Input & output ,primitive data types
         printf("The color: %s\n", "blue");   
      Output: 
      The color: blue
+     
+        printf("First number: %d\n", 12345);
+      Output:
+      First number: 12345
+      
+        
