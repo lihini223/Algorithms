@@ -137,6 +137,7 @@ Areas covered : Memory concepts, Data Input & output ,primitive data types
             
             temp=n1;
             n1=n2;
+            n2=temp;
         }
         
 8.	Execute the following code and analyze the output.
