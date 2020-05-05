@@ -165,5 +165,5 @@ Areas covered : Memory concepts, Data Input & output ,primitive data types
       Float number: 3.14
 
         printf("Hexadecimal: %x\n", 255);
-      Output: 
+      Output: <br/>
       Hexadecimal: ff
