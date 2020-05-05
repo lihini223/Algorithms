@@ -136,6 +136,7 @@ Areas covered : Memory concepts, Data Input & output ,primitive data types
             printf("Before Swapped First Number=%d\n Second Number=%d",n1,n2);
             
             temp=n1;
+            n1=n2;
         }
         
 8.	Execute the following code and analyze the output.
