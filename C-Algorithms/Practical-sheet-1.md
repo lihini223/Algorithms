@@ -173,3 +173,5 @@ Areas covered : Memory concepts, Data Input & output ,primitive data types
       Octal: 377
 
         printf("Unsigned value: %u\n", 150);
+      Output:
+      Unsigned value: 150
