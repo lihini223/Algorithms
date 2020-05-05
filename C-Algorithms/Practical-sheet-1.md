@@ -101,6 +101,8 @@ Areas covered : Memory concepts, Data Input & output ,primitive data types
 
         #include<stdio.h>
         
+        int main()
+        {
         char name[30];
         int birthyear,age;
         
@@ -114,6 +116,8 @@ Areas covered : Memory concepts, Data Input & output ,primitive data types
         
         age=2019-birthyear;
         printf("%s Your age is %d",name,age);
+        
+        }
         
 7.	Input two numbers, swap the values and display the output. ( Before swap and after swap)
 
