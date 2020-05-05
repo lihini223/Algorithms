@@ -149,7 +149,7 @@ Areas covered : Memory concepts, Data Input & output ,primitive data types
      The color: blue
      
         printf("First number: %d\n", 12345);
-      Output:
+      Output: <br/>
       First number: 12345
       
         
