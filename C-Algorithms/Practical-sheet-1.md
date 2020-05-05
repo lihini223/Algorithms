@@ -83,6 +83,7 @@ Areas covered : Memory concepts, Data Input & output ,primitive data types
         scanf("%f",&num2);
         
         average=(num1+num2)/2;
+        printf("Average is %f",average);
 
 6.	Input a student name, birth year and display student name with age.
 
