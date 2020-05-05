@@ -75,6 +75,8 @@ Areas covered : Memory concepts, Data Input & output ,primitive data types
         
 5.	Input two numbers with decimals and display the average with decimals.
         
+        #include<stdio.h>
+        
         float num1,num2,average;
         
         printf("Enter First Number with decimal points:");
