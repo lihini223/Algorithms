@@ -129,6 +129,10 @@ Areas covered : Memory concepts, Data Input & output ,primitive data types
             
             printf("Input The first number to swap:");
             scanf("%d",&n1);
+            
+            printf("Input The second number to swap:");
+            scanf("%d",&n2);
+
 
         }
         
