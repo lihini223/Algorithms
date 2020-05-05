@@ -167,3 +167,5 @@ Areas covered : Memory concepts, Data Input & output ,primitive data types
         printf("Hexadecimal: %x\n", 255);
       Output: <br/>
       Hexadecimal: ff
+      
+        printf("Octal: %o\n", 255);
