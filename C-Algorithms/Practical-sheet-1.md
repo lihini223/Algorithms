@@ -32,6 +32,14 @@ Areas covered : Memory concepts, Data Input & output ,primitive data types
          
 3.	Input values for int,float,double and char data types and display the value of each of the variable.
 
+        #include<stdio.h>
+        int main()
+        {
+        int x;
+        printf("Enter a Integer here:");
+        scanf("%d",&x);
+        }
+
 4.	Input two integers and display the total.
 
 5.	Input two numbers with decimals and display the average with decimals.
