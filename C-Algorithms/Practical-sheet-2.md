@@ -42,5 +42,10 @@ Observe how format commands are used in the following program.
         printf("%-5d%-5d\n", 10, 20);	//Left Align
         return 0;
       }
+      
+## Question 3
+Write a simple program to evaluate the average speed of a car traveled in meters per second (ms-1).
+**Average Speed= Distance Travelled / Time Taken**
+Try using integer variables. What would be the problem? Why?  How to fix the problem?
 
 
