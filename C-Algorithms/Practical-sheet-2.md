@@ -72,3 +72,5 @@ Try using integer variables. What would be the problem? Why?  How to fix the pro
       scanf("%d",&distance);
       printf("Input time taken in minutes:");
       scanf("%d",&time);
+      
+      avg_speed=distance/(time*60);
