@@ -17,3 +17,11 @@ Write a complete C program to do the above.
         printf("HI,HOW OLD ARE YOU?");
         scanf("%d",&age);
         printf("\n\nWELCOME %d \nLET'S BE FRIENDS\n\n",age);
+
+## Question 2
+Write a program which uses the format commands with modifiers to print the following output:
+
+        2	4	8
+        3	9	27
+        4	16	64
+
