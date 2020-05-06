@@ -74,3 +74,4 @@ Try using integer variables. What would be the problem? Why?  How to fix the pro
       scanf("%d",&time);
       
       avg_speed=distance/(time*60);
+      printf("Average Speed is %d",avg_speed);
