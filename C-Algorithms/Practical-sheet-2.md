@@ -12,7 +12,8 @@ on one line. The user then enters his or her age immediately after the question 
 LET’S BE FRIENDS!**
 
 Write a complete C program to do the above.
-
+        
+        #include<stdio.h>
         int age;
         printf("HI,HOW OLD ARE YOU?");
         scanf("%d",&age);
