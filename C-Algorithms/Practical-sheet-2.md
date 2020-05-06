@@ -69,4 +69,6 @@ Try using integer variables. What would be the problem? Why?  How to fix the pro
 
       int distance,time,avg_speed;
       printf("Input travelled distance in meters:");
-	    scanf("%d",&distance);
+      scanf("%d",&distance);
+      printf("Input time taken in minutes:");
+      scanf("%d",&time);
