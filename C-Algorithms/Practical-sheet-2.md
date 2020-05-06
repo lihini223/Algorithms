@@ -31,8 +31,12 @@ Write a program which uses the format commands with modifiers to print the follo
         4	16	64
         
 Program to print above pattern:
-
+            
+            #include<stdio.h>
+            int main()
+            {
             printf("%5d%5d%5d\n",2,4,8);	//Right Align
+            }
             
 Remark:
 Observe how format commands are used in the following program.
