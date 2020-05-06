@@ -15,3 +15,4 @@ Write a complete C program to do the above.
 
         int age;
         printf("HI,HOW OLD ARE YOU?");
+        scanf("%d",&age);
