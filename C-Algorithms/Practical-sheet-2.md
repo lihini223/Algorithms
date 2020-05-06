@@ -24,4 +24,7 @@ Write a program which uses the format commands with modifiers to print the follo
         2	4	8
         3	9	27
         4	16	64
+Remark:
+Observe how format commands are used in the following program.
+
 
