@@ -31,5 +31,11 @@ Write a program which uses the format commands with modifiers to print the follo
         4	16	64
 Remark:
 Observe how format commands are used in the following program.
+        
+      #include <stdio.h>
+      int main()
+      {
+      
+      }
 
 
