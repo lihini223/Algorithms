@@ -35,7 +35,7 @@ Observe how format commands are used in the following program.
       #include <stdio.h>
       int main()
       {
-      
+        printf("%5d%5d\n", 1, 2);	//Right Align
       }
 
 
