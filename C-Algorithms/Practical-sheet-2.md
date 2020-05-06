@@ -14,11 +14,15 @@ LET’S BE FRIENDS!**
 Write a complete C program to do the above.
         
         #include<stdio.h>
+        
+        int main()
+        {
         int age;
         printf("HI,HOW OLD ARE YOU?");
         scanf("%d",&age);
         printf("\n\nWELCOME %d \nLET'S BE FRIENDS\n\n",age);
-
+        }
+        
 ## Question 2
 Write a program which uses the format commands with modifiers to print the following output:
 
