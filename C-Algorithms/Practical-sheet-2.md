@@ -17,10 +17,12 @@ Write a complete C program to do the above.
         
         int main()
         {
+        
         int age;
         printf("HI,HOW OLD ARE YOU?");
         scanf("%d",&age);
         printf("\n\nWELCOME %d \nLET'S BE FRIENDS\n\n",age);
+        
         }
         
 ## Question 2
@@ -33,22 +35,28 @@ Write a program which uses the format commands with modifiers to print the follo
 Program to print above pattern:
             
             #include<stdio.h>
+            
             int main()
             {
+            
             printf("%5d%5d%5d\n",2,4,8);	//Right Align
+            
             }
             
 Remark:
 Observe how format commands are used in the following program.
         
       #include <stdio.h>
+      
       int main()
       {
+      
         printf("%5d%5d\n", 1, 2);	//Right Align
         printf("%5d%5d\n", 10, 20);	//Right Align
         printf("\n\n\n");
         printf("%-5d%-5d\n", 1, 2);	//Left Align
         printf("%-5d%-5d\n", 10, 20);	//Left Align
+        
         return 0;
       }
       
