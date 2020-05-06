@@ -69,7 +69,9 @@ Write a simple program to evaluate the average speed of a car traveled in meters
 Try using integer variables. What would be the problem? Why?  How to fix the problem?
       
       #include<stdio.h>
-      int main(){
+      int main()
+      {
+      
       int distance,time,avg_speed;
       printf("Input travelled distance in meters:");
       scanf("%d",&distance);
@@ -78,5 +80,7 @@ Try using integer variables. What would be the problem? Why?  How to fix the pro
       
       avg_speed=distance/(time*60);
       printf("Average Speed is %d",avg_speed);
+      
       return0;
+      
       }
