@@ -44,8 +44,8 @@ Observe how format commands are used in the following program.
       }
       
 ## Question 3
-Write a simple program to evaluate the average speed of a car traveled in meters per second (ms-1).
-**Average Speed= Distance Travelled / Time Taken**
+Write a simple program to evaluate the average speed of a car traveled in meters per second (ms-1).<br/>
+**Average Speed= Distance Travelled / Time Taken**<br/>
 Try using integer variables. What would be the problem? Why?  How to fix the problem?
 
 
