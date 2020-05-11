@@ -171,10 +171,10 @@ What will be output of the following program?
 
 What will be output of the following program?
 
-#include<stdio.h>
-int main(){
-     int i=5;
-     int a=++i + ++i + ++i;
-     printf("%d",a);
-     return 0;
-}
+    #include<stdio.h>
+    int main(){
+        int i=5;
+        int a=++i + ++i + ++i;
+        printf("%d",a);
+        return 0;
+    }
