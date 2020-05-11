@@ -114,3 +114,15 @@ int main(){
     printf("%d %d",i,j);
     return 0;
 }
+
+## Question 6
+
+What will be output of the following program?
+
+#include<stdio.h>
+int main(){
+    int i=1;
+    i=2+2*i++;
+    printf("%d",i);
+    return 0;
+}
