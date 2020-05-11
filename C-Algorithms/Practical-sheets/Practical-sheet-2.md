@@ -159,13 +159,13 @@ What will be output of the following program?
 
 What will be output of the following program?
 
-#include<stdio.h>
-int main(){
-    int a;
-    a=015 + 0x71 +5;
-    printf("%d",a);
-    return 0;
-}
+    #include<stdio.h>
+    int main(){
+        int a;
+        a=015 + 0x71 +5;
+        printf("%d",a);
+        return 0;
+    }
 
 ## Question 10
 
