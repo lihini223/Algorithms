@@ -119,13 +119,13 @@ What will be output of the following program?
 
 What will be output of the following program?
 
-#include<stdio.h>
-int main(){
-    int i=1;
-    i=2+2*i++;
-    printf("%d",i);
-    return 0;
-}
+    #include<stdio.h>
+    int main(){
+        int i=1;
+        i=2+2*i++;
+        printf("%d",i);
+        return 0;
+    }
 
 ## Question 7
 
