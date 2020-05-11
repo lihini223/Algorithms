@@ -138,3 +138,19 @@ int main(){
     printf("%d",c);
     return 0;
 }
+
+## Question 8
+
+What will be output of the following program?
+
+#include<stdio.h>
+int main(){
+    int a=0,b=10;
+    if(a=0){
+         printf("true");
+    }
+    else{
+         printf("false");
+    }
+    return 0;
+}
