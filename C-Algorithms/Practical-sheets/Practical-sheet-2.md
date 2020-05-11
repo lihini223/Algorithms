@@ -143,17 +143,17 @@ What will be output of the following program?
 
 What will be output of the following program?
 
-#include<stdio.h>
-int main(){
-    int a=0,b=10;
-    if(a=0){
-         printf("true");
+    #include<stdio.h>
+    int main(){
+        int a=0,b=10;
+        if(a=0){
+            printf("true");
+        }
+        else{
+            printf("false");
+        }
+        return 0;
     }
-    else{
-         printf("false");
-    }
-    return 0;
-}
 
 ## Question 9
 
