@@ -102,3 +102,15 @@ Test the program with the following values: 68, 150, 212, 0, -22, -200 (degree F
         c=(5/9)*(f – (32));
         printf("fahrenheit %f = Celsius %f",f,c);
      }
+
+## Question 5
+
+What will be output of the following program?
+        
+#include<stdio.h>
+int main(){
+    int i=5,j;
+    j=++i+++i+++i;
+    printf("%d %d",i,j);
+    return 0;
+}
