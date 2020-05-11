@@ -91,3 +91,6 @@ Convert a temperature reading in degrees Fahrenheit to degrees Celsius, using th
 **C = ( 5 / 9 ) x ( F – 32 )**
 
 Test the program with the following values: 68, 150, 212, 0, -22, -200 (degree Fahrenheit).
+
+    float f,c;
+    
