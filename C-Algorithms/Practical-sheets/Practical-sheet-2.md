@@ -107,13 +107,13 @@ Test the program with the following values: 68, 150, 212, 0, -22, -200 (degree F
 
 What will be output of the following program?
         
-#include<stdio.h>
-int main(){
-    int i=5,j;
-    j=++i+++i+++i;
-    printf("%d %d",i,j);
-    return 0;
-}
+    #include<stdio.h>
+    int main(){
+        int i=5,j;
+        j=++i+++i+++i;
+        printf("%d %d",i,j);
+        return 0;
+    }
 
 ## Question 6
 
