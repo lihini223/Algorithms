@@ -94,5 +94,8 @@ Test the program with the following values: 68, 150, 212, 0, -22, -200 (degree F
 
     float f,c;
     printf("Enter the Temperature in Fahrenheit:");
-	  scanf("%f",&f);
+    scanf("%f",&f);
+    getchar();
+    c=(5/9)*(f – (32));
+    printf("fahrenheit %f = Celsius %f",f,c);
 
